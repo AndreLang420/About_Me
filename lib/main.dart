@@ -4,7 +4,6 @@ void main() {
   runApp(MyApp());
 }
 
-// Simple app showing profile info, skills, contact info (no typing), and favorites
 class MyApp extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
